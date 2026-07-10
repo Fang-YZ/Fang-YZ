@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Fang-YZ&layout=compact&langs_count=8&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=Fang-YZ&layout=compact&langs_count=8&theme=algolia)
 <!--
 **Fang-YZ/Fang-YZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
