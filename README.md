@@ -2,7 +2,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Fang-YZ&layout=compact&langs_count=8&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=Fang-YZ&layout=compact&langs_count=8&theme=algolia)
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Fang-YZ&rank_icon=github&include_all_commits=true&theme=buefy)](https://github-stats-extended.vercel.app/api?username=Fang-YZ&rank_icon=github&include_all_commits=true&theme=buefy)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Fang-YZ&rank_icon=github&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Fang-YZ&rank_icon=github&include_all_commits=true&theme=transparent)
 <!--
 **Fang-YZ/Fang-YZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
