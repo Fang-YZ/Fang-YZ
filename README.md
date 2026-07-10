@@ -1,4 +1,5 @@
 ## Hi there 👋
+## A student who struggling with computer learning.⚡
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Fang-YZ&layout=compact&langs_count=8&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=Fang-YZ&layout=compact&langs_count=8&theme=algolia)
 
 
